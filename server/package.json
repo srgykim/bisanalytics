@@ -1,0 +1,43 @@
+{
+  "name": "bisanalytics",
+  "version": "1.0.4",
+  "description": "BIS Analytics Agency",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srgykim/bisanalytics.git"
+  },
+  "keywords": [
+    "Analytics",
+    "Marketing",
+    "Finance"
+  ],
+  "author": "Sergey Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srgykim/bisanalytics/issues"
+  },
+  "homepage": "https://github.com/srgykim/bisanalytics#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "email-templates": "^8.0.7",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^14.0.2",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.2",
+    "nodemailer": "^6.6.1",
+    "redirect-ssl": "^3.0.0",
+    "sequelize": "^6.12.0",
+    "sequelize-cli": "^6.3.0",
+    "sqlite3": "^5.0.2"
+  },
+  "bin": {
+    "bisanalytics": "www.js"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "srgykim",
+        "MONGO_PASSWORD": "srgykim",
+        "MONGO_DB": "bisanalytics-db"
+    }
+}

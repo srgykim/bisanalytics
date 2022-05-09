@@ -1,0 +1,59 @@
+{
+  "locale": "EN",
+  "navbar" : {
+    "main": "Home",
+    "about": "About",
+    "services": "Services",
+    "reviews": "Reviews"
+  },
+  "jumbotron": {
+    "title": "Get More Out of Your Data",
+    "description": "Advanced Analytics for Your Business",
+    "demo": "Order Demo",
+    "services": "Jump to Our Services"
+  },
+  "main": {
+    "notFoundHeadaer": "Woops! Something went wrong. Page not found.",
+    "notFoundBody": "Go to main page.",
+    "part0": "About Us",
+    "part1": "Google BigQuery Data Warehouse",
+    "part2": "Integration with any type of data - files, web services, databases",
+    "part3": "Marketing Intelligence",
+    "part4": "We'll help you to track your KPIs real time",
+    "part5": "Analyze your ad campaigns and always be aware of what's going on",
+    "part6": "We'll help you to make important decisions and plan your budget effectively",
+    "part7": "Services",
+    "part8": "Power BI Visualization",
+    "part9": "Dashboards and reports for your KPIs in Power BI.",
+    "part10": "VK Data",
+    "part11": "Get your target audience from VK.",
+    "part12": "Instagram Data",
+    "part13": "Find potential clients from Instagram by their hashtags.",
+    "part14": "About BIS Analytics",
+    "part15": "Make most out of your data. Send us an",
+    "part16": " email ",
+    "part17": "to get more info.",
+    "part18": "Be aware of what's going on. Subscribe to newsletter",
+    "part19": "Subscribe",
+    "part20_0": "Telephone",
+    "part20_1": "+7 (708) 970-61-56 (KZ)",
+    "part20_2": "+7 (962) 283-72-39 (RU)",
+    "part20_3": "Email",
+    "part20_4": "ANY QUESTIONS?",
+    "part20_5": "Contact us via telephone or email",
+    "part21": "Yandex Metrica Data",
+    "part22": "Customize your reports merging traffic data from Yandex Metrica.",
+    "part23": "Income Plan",
+    "part24": "Google Analytics Data",
+    "part25": "Customize your reports merging traffic data from Google Analytics.",
+    "part26": "Apache Airflow Integration",
+    "part27": "Optimize your workflows with Apache Airflow data orchestration framework."
+  },
+  "reviews": {
+    "title": "Tell us what you think. Leave us a comment."
+  },
+  "error":
+  {
+    "invalidEmail": "Please enter a valid email address."
+  }
+}

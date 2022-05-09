@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.83fb87ed.css",
+    "main.js": "./static/js/main.d3a276ab.js",
+    "static/media/instagram.png": "./static/media/instagram.a1950cc4577ce1f1514a.png",
+    "static/media/about-us.png": "./static/media/about-us.567cc03a7d0755ca4e60.png",
+    "static/media/pdx.jpg": "./static/media/pdx.0a6d3b3540691ba9e16a.jpg",
+    "static/media/yametrics.png": "./static/media/yametrics.44514186cff25af041b3.png",
+    "static/media/VK.png": "./static/media/VK.f0c120a8105dec164152.png",
+    "static/media/googleanalytics.png": "./static/media/googleanalytics.9c6743f2fa1b626c1ae4.png",
+    "static/media/airflowlogo.png": "./static/media/airflowlogo.c25c5314e4c973b72387.png",
+    "static/media/logo.png": "./static/media/logo.9f62c440df5d4b094747.png",
+    "static/media/powerbi-logo.png": "./static/media/powerbi-logo.bf02776297d9e14e9deb.png",
+    "index.html": "./index.html",
+    "static/media/getFetch.cjs": "./static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.83fb87ed.css.map": "./static/css/main.83fb87ed.css.map",
+    "main.d3a276ab.js.map": "./static/js/main.d3a276ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83fb87ed.css",
+    "static/js/main.d3a276ab.js"
+  ]
+}
