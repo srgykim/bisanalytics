@@ -66,6 +66,8 @@ class Login extends Component {
         })
         .catch(err => {
             const { t } = this.props;
+            document.getElementById('loginButton').className = 'btn btn-danger float-right';
+                setTimeout(() => { document.getElementById('loginButton').className = 'btn btn-primary float-right'; }, 1000);
             this.setState({loginError: t("error.incorrectEmail")});
         });
     };    
@@ -124,7 +126,7 @@ class Login extends Component {
                                     <p style={{
                                         color: 'red',
                                     }}>{loginError}</p>
-                                    <button type="submit" className="btn btn-primary float-right">
+                                    <button id="loginButton" type="submit" className="btn btn-primary float-right">
                                         <Trans i18nKey="login.login">Вход</Trans>
                                     </button>
                                 </form>
