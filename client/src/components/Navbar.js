@@ -33,6 +33,27 @@ const Navbar = (props) => {
                 } else if (localStorage.getItem('lang') === "en") {
                     document.title = "Reviews - BIS Analytics";
                 }
+                break
+            case "/register":
+                if (localStorage.getItem('lang') === "ru") {
+                    document.title = "Регистрация - BIS Analytics";
+                } else if (localStorage.getItem('lang') === "en") {
+                    document.title = "Register - BIS Analytics";
+                }
+                break
+            case "/login":
+                if (localStorage.getItem('lang') === "ru") {
+                    document.title = "Вход - BIS Analytics";
+                } else if (localStorage.getItem('lang') === "en") {
+                    document.title = "Log In - BIS Analytics";
+                }
+                break
+            case "/cabinet":
+                if (localStorage.getItem('lang') === "ru") {
+                    document.title = "Личный кабинет - BIS Analytics";
+                } else if (localStorage.getItem('lang') === "en") {
+                    document.title = "Personal Page - BIS Analytics";
+                }
                 break;
         }
     }, [loaded]);
